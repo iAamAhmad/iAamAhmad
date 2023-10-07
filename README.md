@@ -74,6 +74,9 @@
 </p>
 <hr>
 <br>
+<div>
+	![Snake animation](https://github.com/iAamAhmad/iAamAhmad/blob/output/github-contribution-grid-snake.svg)
+</div>
 <div align='center'>
 	<h3> ✍️ Random Dev Quote </h3>
 	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
