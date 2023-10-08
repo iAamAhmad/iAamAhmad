@@ -15,7 +15,7 @@
   MERN Stack Developer | Proficient in Next.js & TypeScript | Dreaming About Web 3.0
 </p>
 
-| Currently Learning | NEXT.JS, DBMS |
+| Currently Learning | Artificial Intelligence, DBMS |
 | ------------------ | --------- |
 
   <p align="center">
