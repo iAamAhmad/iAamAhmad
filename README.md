@@ -18,8 +18,8 @@
 | Currently Learning | Artificial Intelligence, DBMS |
 | ------------------ | --------- |
 
-  <p align="center">
-	<a href="https://vercel.com/iamahmad/first-app" align="center" target="_blank"
+  <p align="start">
+	<a href="https://vercel.com/iamahmad/first-app" align="start" target="_blank"
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">My PORTFOLIO</a>
 </p>
 
