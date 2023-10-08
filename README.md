@@ -1,17 +1,17 @@
 <!-- animation start  -->
 <!-- ![Typing
 <!-- animation end  -->
-<!-- <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
+<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <img alt="Coding" style="border-radius:16px;" src="./myAssets/banner2.gif">
-<!-- 
+
 <video src='./myAssets/gh-banner-video.mp4' muted autoplay/> -->
 
-<h3 align="center" style="margin-top: 4px;"> Exciting Minutes of Coding</h3>
+<h3 align="start" style="margin-top: 4px;"> Exciting Minutes of Coding</h3>
 
 <p>
-	Results-driven Front-End & Full Stack Developer with expertise in Next.js and TypeScript. Passionate about optimizing web solutions.
+  I'm an Engineer passionate about coding and open source projects. Here, you'll find some of my latest work and contributions. <br/>
   MERN Stack Developer | Proficient in Next.js & TypeScript | Dreaming About Web 3.0
 </p>
 
@@ -23,7 +23,7 @@
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">My PORTFOLIO</a>
 </p>
 
-<hr>
+<hr width=100% >
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
