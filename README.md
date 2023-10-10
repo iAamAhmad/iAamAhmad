@@ -12,7 +12,7 @@
 
 <p>
   I'm an Engineer, passionate about coding and open source projects. Here, you'll find some of my latest work and contributions. <br/>
-  MERN Stack Developer | Proficient in Next.js & TypeScript | Dreaming About Web 3.0
+  MERN Stack Developer  Dreaming About Web 3.0
 </p>
 
 | Currently Learning | Artificial Intelligence, DBMS |
