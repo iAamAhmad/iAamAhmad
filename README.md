@@ -27,13 +27,13 @@
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/iamahmaad/" target="blank"><img align="center"
+	<a href="https://www.linkedin.com/in/iamahmaad/" target="_blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://twitter.com/iAamAhmad" target="blank" style="padding:8px"><img align="center" style="margin:8px"
+	<a href="https://twitter.com/iAamAhmad" target="_blank" style="padding:8px"><img align="center" style="margin:8px"
 			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://leetcode.com/iAamAhmad/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"
+	<a href="https://leetcode.com/iAamAhmad/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"
 			alt="leetcode" height="50" width="50" /></a>
-	<a href="https://www.instagram.com/_iammuhammadahmad/" target="blank" style="padding:8px"><img align="center"
+	<a href="https://www.instagram.com/_iammuhammadahmad/" target="_blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=iAamAhmad&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="Ahmad" align="right" />
