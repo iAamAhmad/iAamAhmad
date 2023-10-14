@@ -15,7 +15,8 @@
   MERN Stack Developer| Learning Web 3.0
 </p>
 
-| Currently Learning | Backend Development, DBMS |
+| Currently Learning | MERN Stack, DBMS |
+
 | ------------------ | --------- |
 
   <p align="start">
