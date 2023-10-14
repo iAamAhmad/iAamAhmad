@@ -17,7 +17,6 @@
 
 | Currently Learning | MERN Stack, DBMS |
 
-| ------------------ | --------- |
 
   <p align="start">
 	<a href="https://vercel.com/iamahmad/first-app" align="start" target="_blank"
