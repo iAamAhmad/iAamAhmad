@@ -58,20 +58,6 @@
 		<img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="40px" />
 	</a>
 </p>
-
-<hr>
-
-<h3 align="left">🏫 Future Endeavours :</h3>
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=nestjs,threejs,tensorflow,docker" />
-	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
-	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
-	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
-		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-			alt="cypress" width="40" height="40" />
-	</a>
-</p>
 <hr>
 <br>
 <div>
