@@ -20,7 +20,7 @@
 
   <p align="start">
 	<a href="https://vercel.com/iamahmad/first-app" align="start" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">My PORTFOLIO</a>
+		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid"></a>
 </p>
 
 <hr width=100% >
