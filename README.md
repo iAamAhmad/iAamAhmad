@@ -8,14 +8,14 @@
 
 <video src='./myAssets/gh-banner-video.mp4' muted autoplay/> -->
 
-<h3 align="start" style="margin-top: 4px;"> Exciting Minutes of Coding</h3>
+<h3 align="start" style="margin-top: 4px;">Exciting Minutes of Coding</h3>
 
 <p>
   I'm an Engineer, passionate about coding and open source projects. Here, you'll find some of my latest work and contributions. <br/>
-  MERN Stack Developer| Learning Web 3.0
+  MERN Stack Developer| Learning Backend Development
 </p>
 
-| Currently Learning | MERN Stack, DBMS |
+| Currently Learning | Node/Nest
 
 
   <p align="start">
@@ -43,19 +43,14 @@
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind" />
 	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
-	<img src="https://skillicons.dev/icons?i=postman,vercel" />
 	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
 	<a href="#">
 		<img alt="GitHub" title="GitHub" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:5px;" />
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
 		<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="45" height="45" />
-	</a>
-	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
-		<img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="40px" />
 	</a>
 </p>
 <hr>
