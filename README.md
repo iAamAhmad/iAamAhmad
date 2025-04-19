@@ -1,63 +1,55 @@
-<!-- animation start  -->
-<!-- ![Typing
-<!-- animation end  -->
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<!-- animation start -->
+<!-- ![Typing -->
+<!-- animation end -->
+<img align="right" alt="Coding" width="400" style="border-radius:20px;" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <img alt="Coding" style="border-radius:16px;" src="./myAssets/banner2.gif">
 
-<video src='./myAssets/gh-banner-video.mp4' muted autoplay/> -->
+<video src='./myAssets/gh-banner-video.mp4' muted autoplay/>
 
-<h3 align="start" style="margin-top: 4px;">Exciting Minutes of Coding</h3>
+<h3 align="start" style="margin-top: 4px;">Passionate About Building Scalable Solutions</h3>
 
 <p>
-  I'm an Engineer, passionate about coding and open source projects. Here, you'll find some of my latest work and contributions. <br/>
-  MERN Stack Developer| Learning Backend Development
+  I am a Senior Software Engineer with a deep passion for coding, open-source contributions, and creating impactful applications. This profile showcases my latest work, contributions, and projects. <br/>
+  Specializing in full-stack development, I work primarily with the MERN stack and am continuously learning backend technologies like Node.js and NestJS to expand my expertise.
 </p>
 
-| Currently Learning | Node/Nest
+| Currently Diving Into | Backend Development (Node.js, NestJS)
 
-
-  <p align="start">
-	<a href="https://vercel.com/iamahmad/first-app" align="start" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid"></a>
+<p align="start">
+	<a href="https://vercel.com/iamahmad/first-app" target="_blank" style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">Explore My Latest Project</a>
 </p>
 
 <hr width=100% >
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
+<h3 align="left">📫 Let's Connect: </h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/iamahmaad/" target="_blank"><img align="center"
-			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://twitter.com/iAamAhmad" target="_blank" style="padding:8px"><img align="center" style="margin:8px"
-			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://leetcode.com/iAamAhmad/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"
-			alt="leetcode" height="50" width="50" /></a>
-	<a href="https://www.instagram.com/_iammuhammadahmad/" target="_blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="iAmAhmad" height="50" width="50" /></a>
-	<img src="https://komarev.com/ghpvc/?username=iAamAhmad&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="iAmAhmad" align="right" />
+	<a href="https://www.linkedin.com/in/iamahmaad/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn" /></a>
+	<a href="https://twitter.com/iAamAhmad" target="_blank" style="padding:8px"><img align="center" style="margin:8px" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="Twitter" /></a>
+	<a href="https://leetcode.com/iAamAhmad/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="LeetCode" height="50" width="50" /></a>
+	<a href="https://www.instagram.com/_iammuhammadahmad/" target="_blank" style="padding:8px"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" width="50" alt="Instagram" /></a>
+	<img src="https://komarev.com/ghpvc/?username=iAamAhmad&label=Profile%20views&color=11eb11&style=for-the-badge" alt="Profile views" align="right" />
 </p>
 <hr>
 
-<h3 align="left">Languages and Tools ⚙️ : </h3>
+<h3 align="left">🔧 Tools & Technologies I Use: </h3>
 
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind" />
 	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
 	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
-	<a href="#">
-		<img alt="GitHub" title="GitHub" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:5px;" />
-	</a>
+	<a href="#"><img alt="GitHub" title="GitHub" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:5px;" /></a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
-		<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="45" height="45" />
+		<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJS" width="45" height="45" />
 	</a>
 </p>
 <hr>
-<br>
+
+<!-- Snake animation of contributions -->
 <div>
 	![Snake animation](https://github.com/iAamAhmad/iAamAhmad/blob/output/github-contribution-grid-snake.svg)
 </div>
+
 <div align='center'>
 	<h3> ✍️ Random Dev Quote </h3>
 	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
@@ -69,7 +61,6 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
 1. 🎉 Merged PR [#16](https://github.com/iAamAhmad/JavaScriptCompleteLearning) in [iAamAhmad/portfolio](https://github.com/iAamAhmad/nextJSCodebase)
 2. 💪 Opened PR [#16](https://github.com/iAamAhmad/completeBackend) in [iAamAhmad/portfolio](https://github.com/iAamAhmad/nextJSCodebase)
 3. 💪 Opened PR [#1](https://github.com/iAamAhmad/ReactCodeBAse) in [fizza897/Form-antdesign](https://github.com/iAamAhmad/nextJSCodebase)
@@ -79,4 +70,3 @@
 <!--END_SECTION:activity-->
 
 <hr>
-<br>
