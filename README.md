@@ -18,7 +18,7 @@
 
 
   <p align="start">
-	<a href="https://vercel.com/iamahmad/first-app" align="start" target="_blank"
+	<a href="https://vercel.com/iamahmad3/first-app" align="start" target="_blank"
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid"></a>
 </p>
 
@@ -26,15 +26,15 @@
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/iamahmaad/" target="_blank"><img align="center"
+	<a href="https://www.linkedin.com/in/iamahmad3/" target="_blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
 	<a href="https://twitter.com/iAamAhmad" target="_blank" style="padding:8px"><img align="center" style="margin:8px"
 			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://leetcode.com/iAamAhmad/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"
+	<a href="https://leetcode.com/iAmAhmad3/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"
 			alt="leetcode" height="50" width="50" /></a>
 	<a href="https://www.instagram.com/_iammuhammadahmad/" target="_blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=instagram" alt="iAmAhmad" height="50" width="50" /></a>
-	<img src="https://komarev.com/ghpvc/?username=iAamAhmad&label=Profile%20views&color=11eb11&style=for-the-badge"
+	<img src="https://komarev.com/ghpvc/?username=iAmAhmad&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="iAmAhmad" align="right" />
 </p>
 <hr>
@@ -69,12 +69,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/iAamAhmad/JavaScriptCompleteLearning) in [iAamAhmad/portfolio](https://github.com/iAamAhmad/nextJSCodebase)
-2. 💪 Opened PR [#16](https://github.com/iAamAhmad/completeBackend) in [iAamAhmad/portfolio](https://github.com/iAamAhmad/nextJSCodebase)
-3. 💪 Opened PR [#1](https://github.com/iAamAhmad/ReactCodeBAse) in [fizza897/Form-antdesign](https://github.com/iAamAhmad/nextJSCodebase)
-4. 🎉 Merged PR [#8]([](https://github.com/iAamAhmad/ReactCodeBAse)) in [iAamAhmad/](https://github.com/iAamAhmad/nextJSCodebase)
-5. 💪 Opened PR [#8](https://github.com/iAamAhmad/ReactCodeBAse) in [iAamAhmad/](https://github.com/iAamAhmad/nextJSCodebase)
-6. 🎉 Merged PR [#2](https://github.com/iAamAhmad/ReactCodeBAse) in [iAamAhmad/](https://github.com/iAamAhmad/nextJSCodebase)
+1. 🎉 Merged PR [#16](https://github.com/iAamAhmad3/JavaScriptCompleteLearning) in [iAamAhmad/portfolio](https://github.com/iAmAhmad3/nextJSCodebase)
+2. 💪 Opened PR [#16](https://github.com/iAamAhmad3/completeBackend) in [iAamAhmad/portfolio](https://github.com/iAmAhmad3/nextJSCodebase)
+3. 💪 Opened PR [#1](https://github.com/iAamAhmad3/ReactCodeBAse) in [fizza897/Form-antdesign](https://github.com/iAmAhmad3/nextJSCodebase)
+4. 🎉 Merged PR [#8]([](https://github.com/iAamAhmad3/ReactCodeBAse)) in [iAamAhmad/](https://github.com/iAmAhmad3/nextJSCodebase)
+5. 💪 Opened PR [#8](https://github.com/iAamAhmad3/ReactCodeBAse) in [iAamAhmad/](https://github.com/iAmAhmad/nextJSCodebase)
+6. 🎉 Merged PR [#2](https://github.com/iAamAhmad3/ReactCodeBAse) in [iAamAhmad/](https://github.com/iAmAhmad/nextJSCodebase)
 <!--END_SECTION:activity-->
 
 <hr>
